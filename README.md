@@ -11,9 +11,8 @@ No installs. No accounts. Just type.
 
 ## 🕹️ Play Now
 
-👉 **[yourusername.github.io/typeslayer](https://yourusername.github.io/typeslayer)**
+👉 **[ASULTayan.github.io/typeslayer](https://ASULTayan.github.io/typeslayer)**
 
-> Replace `yourusername` with your actual GitHub username.
 
 ## 📁 Project Structure
 
@@ -40,7 +39,7 @@ typeslayer/
 3. Done ✅
 
 ```bash
-git clone https://github.com/yourusername/typeslayer.git
+git clone https://github.com/ASULTayan/typeslayer.git
 cd typeslayer
 # open index.html in browser
 ```
@@ -50,7 +49,7 @@ cd typeslayer
 1. Push all files to a GitHub repo
 2. Go to **Settings → Pages**
 3. Set source to **Branch: main**
-4. Your game is live at `https://yourusername.github.io/typeslayer`
+4. Your game is live at `https://ASULTayan.github.io/typeslayer`
 
 ## 📄 License
 
