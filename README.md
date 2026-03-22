@@ -11,7 +11,7 @@ No installs. No accounts. Just type.
 
 ## 🕹️ Play Now
 
-👉 **[ASULTayan.github.io/typeslayer](https://ASULTayan.github.io/typeslayer)**
+👉 **[ASULTayan.github.io/typeslayer](https://ASULTayan.github.io/TypeSlayer)**
 
 
 ## 📁 Project Structure
